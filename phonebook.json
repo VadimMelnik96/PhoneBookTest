@@ -1,0 +1,26 @@
+[
+    {
+        "name": "John",
+        "lastname": "Doe",
+        "surname": "None",
+        "organization": "Umbrella",
+        "work_phone_number": "777-544",
+        "personal_number": "8934343434"
+    },
+    {
+        "name": "Vasya",
+        "lastname": "Pumpkin",
+        "surname": "Olegovich",
+        "organization": "TradingCorp",
+        "work_phone_number": "666-544",
+        "personal_number": "8934454545"
+    },
+    {
+        "name": "Oksana",
+        "lastname": "Fedorova",
+        "surname": "Olegovna",
+        "organization": "FirstIndustries",
+        "work_phone_number": "112-3434",
+        "personal_number": "+7945453212"
+    }
+]
